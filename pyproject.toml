@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=40.8.0","wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hospital-system"
+version = "0.1.0"
+description = "Tiny in-memory hospital system for GH Actions training"
+authors = [{name = "Dev", email = "dev@example.com"}]
+requires-python = ">=3.8"
+dependencies = ["click", "pytest"]

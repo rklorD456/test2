@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: hospital-system
+Version: 0.1.0
+Summary: Tiny in-memory hospital system for GH Actions training
+Author-email: Dev <dev@example.com>
+Requires-Python: >=3.8
+Requires-Dist: click
+Requires-Dist: pytest
