@@ -1,0 +1,12 @@
+{
+    "name": "simple-node-package",
+    "version": "1.0.0",
+    "description": "A simple node package",
+    "main": "src/app.js",
+    "scripts": {
+        "test": "bash src/test.sh"
+    },
+    "author": "dark",
+    "license": "ISC",
+    "dependencies": {}
+}
